@@ -1,0 +1,13 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "Learning NodeJS. Project to practice the fundamentals",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ."
+  },
+  "keywords": ["server", "nodejs", "http", "fundamentals"],
+  "author": "Victor Hugo da Silva - @vickttorugo",
+  "license": "ISC"
+}
